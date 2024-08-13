@@ -6,7 +6,7 @@
     "homepage": "https://github.com/jorgezaccaro/merkle-bitcoin",
     "repository": {
         "type": "git",
-        "url": "git://github.com/jorgezaccaro/merkle-bitcoin.git"
+        "url": "git+https://github.com/Excubiae/kawpow-multi-hashing.git"
     },
     "keywords": [
         "merkle",
